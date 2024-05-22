@@ -197,7 +197,7 @@ code {
 
 #fanshawe-body {
     min-width: 755px;
-    background-image: url('/images/fanshawe_wallpaper.jpg') !important;
+    background-image: url('../images/fanshawe_wallpaper.jpg') !important;
     font-family: Arial, sans-serif;
 }
 
