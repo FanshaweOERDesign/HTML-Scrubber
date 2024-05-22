@@ -271,3 +271,8 @@ footer {
 #copyRes {
     margin-top: 0.5rem;
 }
+
+#outputCopyBtn {
+
+    font-size: 11pt;
+}
