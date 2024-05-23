@@ -1,7 +1,7 @@
  # HTML Scrubber
 
-[HTML Scrubber
-Logo](https://fanshaweoerdesign.github.io/HTML-Scrubber/images/oer_logo.png)
+[![HTML Scrubber
+Logo](https://fanshaweoerdesign.github.io/HTML-Scrubber/images/oer_logo.png)]
 
 Welcome to HTML Scrubber, a simple application designed to help you remove unnecessary HTML and CSS code from your
 imported files in Pressbooks. This tool can be found at
