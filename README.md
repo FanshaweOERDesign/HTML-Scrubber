@@ -33,13 +33,5 @@ eBook. The default CSS is already included.
 3. **Scrubbing the Code**: Click the "Scrub" button in the last tab to generate your cleaned HTML code. Once
 generated, you can copy and paste this code back into your Pressbooks text editor.
 
-## Contributing
-We welcome contributions from the community! If you would like to contribute to HTML Scrubber:
-1. Fork the repository on GitHub.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push them to your branch.
-4. Open a pull request against the main branch.
-
 ## License
-HTML Scrubber is released under the [MIT](https://opensource.org/licenses/MIT) license. Feel free to use, modify,
-and distribute it as you see fit. Enjoy using HTML Scrubber in your Pressbooks projects! 
+HTML Scrubber was created by Rosalyn Bourne and Jason Benoit at the Fanshawe OER Design studio, and is released under the [MIT](https://opensource.org/licenses/MIT) license. Feel free to use, modify, and distribute it as you see fit. Enjoy using HTML Scrubber in your Pressbooks projects! 
