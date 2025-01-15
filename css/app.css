@@ -227,12 +227,13 @@ h1 {
 
 .userText {
     width: 98%;
-    height: 30vh;
+    height: 28vh;
     padding: 1%;
 }
 
 button {
     font-size: 1.5rem;
+    margin-top: 2vh;
 }
 
 footer {
