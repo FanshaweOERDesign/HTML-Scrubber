@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HTMLScrubberBlazor",
   "resources": {
-    "hash": "sha256-601qa2a7s1yH5zYAdkCNCuRJqnGMWZv6Iy4zIL4eywc=",
+    "hash": "sha256-M/S4rtZZ/OICUdzisxpzdHhrfND4ewed4WBqEkwEtVg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "AngleSharp.wasm": "sha256-tNDCTO1BIKSaiIAJ60lBPsU6Nc8Z01ux88o/8GiKItE=",
-      "HTMLScrubberBlazor.wasm": "sha256-xn8jVn6tB+AaVP54kEBHQSJ6tI0pqCMVC32dAsO8qaA=",
+      "HTMLScrubberBlazor.wasm": "sha256-rKAsvyFjsW+4To8SXqnGKUwDRtgau76Yxhli4NoZAEk=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-EAzJLmh+TX25yl1egEvNnPs2oV3MrmpdT6yGWD2JEDA=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-pTqq+x0gDFN43IRDxf8I8MR5Zz7t3MRk8NzX1i09VSY=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-qqAyzUL5Q+5iyeqLeFLNhnTbmLZkEahCq/7no7QSXEc=",
