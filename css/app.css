@@ -197,7 +197,8 @@ code {
 
 #fanshawe-body {
     min-width: 755px;
-    background-image: url('/images/fanshawe_wallpaper.jpg') !important;
+    background-image: url('../images/fanshawe_wallpaper.jpg') !important;
+    background-size: cover !important;
     font-family: Arial, sans-serif;
 }
 
@@ -226,12 +227,13 @@ h1 {
 
 .userText {
     width: 98%;
-    height: 30vh;
+    height: 28vh;
     padding: 1%;
 }
 
 button {
     font-size: 1.5rem;
+    margin-top: 2vh;
 }
 
 footer {
